@@ -1,16 +1,39 @@
-## Hi there 👋
+## Hi there 👋 I'm Yash Saxena
 
-<!--
-**Engineeryashs/Engineeryashs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full-Stack Developer | MERN Stack  
+🧠 Exploring Scalable Systems & Agentic AI  
+💡 Passionate about building real-world production-ready applications  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Currently Working On
+- Building scalable backend systems
+- Advanced MERN stack projects
+- Learning Agentic AI & LLM-based architectures
+
+### 🌱 Currently Learning
+- System Design fundamentals
+- AI Agents & RAG pipelines
+- Performance optimization & clean architecture
+
+### 💻 Tech Stack
+- **Frontend:** React.js, JavaScript, HTML, CSS
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB
+- **Tools:** Git, Postman, Docker (Learning)
+
+### 📌 Featured Projects
+- 💳 Full-Stack Payment Application (JWT Auth + Transactions)
+- 🛒 E-Commerce Backend System
+- 📝 Secure Todo App with User-Based Access
+
+### 🎯 Career Goal
+To become a product-focused engineer building scalable and intelligent systems.
+
+### 📫 Connect With Me
+- LinkedIn: (Add your link)
+- Portfolio: (Add your link)
+
+---
+
+⚡ Fun Fact: I believe consistency beats motivation.
